@@ -1,0 +1,7 @@
+/Users/tomapter/Documents/midi-clip-player/build/CMakeFiles/midi_clip_player.dir
+/Users/tomapter/Documents/midi-clip-player/build/CMakeFiles/edit_cache.dir
+/Users/tomapter/Documents/midi-clip-player/build/CMakeFiles/rebuild_cache.dir
+/Users/tomapter/Documents/midi-clip-player/build/CMakeFiles/list_install_components.dir
+/Users/tomapter/Documents/midi-clip-player/build/CMakeFiles/install.dir
+/Users/tomapter/Documents/midi-clip-player/build/CMakeFiles/install/local.dir
+/Users/tomapter/Documents/midi-clip-player/build/CMakeFiles/install/strip.dir

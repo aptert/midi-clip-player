@@ -1,0 +1,3 @@
+/usr/local/midi_clip_player.lv2/midi_clip_player.so
+/usr/local/midi_clip_player.lv2/manifest.ttl
+/usr/local/midi_clip_player.lv2/plugin.ttl
