@@ -8,7 +8,7 @@ Un plugin LV2 qui lit des fichiers MIDI depuis la Mod Dwarf et permet de choisir
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) installé et lancé
 - [VSCode](https://code.visualstudio.com/) (optionnel)
 - Une Mod Dwarf branchée en USB
-- Des fichiers MIDI uploadés sur la Dwarf dans **User Files > MIDI Songs** via le file manager (`http://moddwarf.local`)
+- Des fichiers MIDI (dans /clips-midi de ce repo) uploadés sur la Dwarf dans **User Files > MIDI Songs** via le file manager (`http://moddwarf.local`)
 
 ---
 
